@@ -14,7 +14,10 @@ um código gigante.
 </div>
     
 ### Status do Projeto 📈
-    Em averiguação.
+    Concluído.
+    
+#    ## Link para página de acess:
+  https://mujunho.github.io/projeto3practicum/
       
 #### Contatos 📬
  <div> 
